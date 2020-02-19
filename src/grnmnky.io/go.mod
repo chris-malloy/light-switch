@@ -1,3 +1,3 @@
-module grnmnky.io/hello
+module grnmnky.io/light_switch
 
 go 1.13
